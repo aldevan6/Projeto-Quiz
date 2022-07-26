@@ -1,6 +1,6 @@
 # Projeto-Quiz
 
-<h2>Conecimentos obtidos com o projeto</h2>
+<h2>Conhecimentos obtidos através deste projeto</h2>
 
 <ul>
     <li>Maniulação de Arrey</li>
